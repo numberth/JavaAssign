@@ -1,0 +1,21 @@
+
+2015-06-25 16:47:29,744 INFO  a00902090.gis.Gis  - 2015-06-25T16:47:29.744Z
+2015-06-25 16:47:29,744 INFO  a00902090.gis.Gis  - Created Gis
+2015-06-25 16:47:29,744 DEBUG a00902090.gis.io.GameReader  - Reading A:\Courses\workspace\A00902090Gis\games.dat
+2015-06-25 16:47:29,759 DEBUG a00902090.gis.io.PlayerReader  - Reading A:\Courses\workspace\A00902090Gis\players.dat
+2015-06-25 16:47:29,759 DEBUG a00902090.gis.io.PersonaReader  - Reading A:\Courses\workspace\A00902090Gis\personas.dat
+2015-06-25 16:47:29,759 DEBUG a00902090.gis.io.ScoreReader  - Reading A:\Courses\workspace\A00902090Gis\scores.dat
+2015-06-25 16:47:29,759 DEBUG a00902090.gis.Gis  - Added 25 scores to 11 personas
+2015-06-25 16:47:29,759 DEBUG a00902090.gis.Gis  - Leaderboard has 18 entries
+2015-06-25 16:47:29,759 INFO  a00902090.gis.Gis  - 2015-06-25T16:47:29.759Z
+2015-06-25 17:16:18,090 INFO  a00902090.gis.Gis  - 2015-06-25T17:16:18.089Z
+2015-06-25 17:16:18,091 INFO  a00902090.gis.Gis  - Created Gis
+2015-06-25 17:16:18,092 DEBUG a00902090.gis.io.GameReader  - Reading A:\Courses\workspace\A00902090Gis\games.dat
+2015-06-25 17:16:18,099 DEBUG a00902090.gis.io.PlayerReader  - Reading A:\Courses\workspace\A00902090Gis\players.dat
+2015-06-25 17:16:18,101 DEBUG a00902090.gis.io.PersonaReader  - Reading A:\Courses\workspace\A00902090Gis\personas.dat
+2015-06-25 17:16:18,104 DEBUG a00902090.gis.io.ScoreReader  - Reading A:\Courses\workspace\A00902090Gis\scores.dat
+2015-06-25 17:16:18,110 DEBUG a00902090.gis.Gis  - Added 25 scores to 11 personas
+2015-06-25 17:16:18,111 DEBUG a00902090.gis.Gis  - Leaderboard has 18 entries
+2015-06-25 17:16:18,111 INFO  a00902090.gis.Gis  - 2015-06-25T17:16:18.111Z
+2015-06-25 17:16:44,681 INFO  a00902090.gis.Gis  - 2015-06-25T17:16:44.680Z
+2015-06-25 17:16:44,683 ERROR a00902090.gis.Gis  - Required scores.dat is missing.
